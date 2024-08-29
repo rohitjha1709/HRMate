@@ -7,7 +7,7 @@ Splash Screen-
 ![image](https://github.com/user-attachments/assets/b50df8b0-bfec-4c6a-b3aa-41a59c224720)
 
 Login Screen-
-![image](https://github.com/user-attachments/assets/137d2810-096d-4e8f-aba8-a7e3145f2f91)
+![image](https://github.com/user-attachments/assets/78ea3c2a-e6a7-4f31-bf00-adce7d57c70d)
 
 Main Dashboard-
 ![image](https://github.com/user-attachments/assets/24bc895e-e4dc-449c-b09b-17f9911f29ad)
